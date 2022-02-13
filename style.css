@@ -1,0 +1,27 @@
+button{
+    background: rgb(82, 30, 117);
+    color:whitesmoke
+}
+#p1{
+    color:tomato
+}
+#p2{
+    color:violet;
+    background: yellowgreen;
+}
+.content{
+    color:thistle;
+}
+
+div{
+    width:300px;
+    height: 200px;
+    background: sienna;
+    margin:0%;
+    padding :0%;
+    border: 5px solid;
+    border-color: violet;
+}
+    .colorful{
+        color: teal;
+    }

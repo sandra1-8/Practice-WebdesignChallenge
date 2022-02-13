@@ -1,0 +1,34 @@
+.header{
+    width:100%;
+    background:rgb(212, 116, 25);
+    height:150px;
+}
+.left-sec{
+    width:20%;
+    float:left;
+    height:400px;
+    background: lightseagreen;
+}
+.right-sec{
+    width:80%;
+    float:left;
+    height:400px;
+    background: rgb(65, 121, 118);
+}
+.footer{
+    height:150px;
+    width:100%;
+    background: rgb(71, 103, 136);
+}
+.content{
+    height:400px;
+}
+body{
+    margin: 0;
+}
+.login-controls{
+    margin-left: 115px;
+}
+.login{
+    padding-top: 10px;
+}
